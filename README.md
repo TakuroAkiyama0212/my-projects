@@ -1,4 +1,4 @@
-# takuroakiyama
+#TakuroAkiyama
 # 💫 About Me:
 Aspiring Full-stack Developer proficient in React, TypeScript, Python, and modern web frameworks. <br>Highly motivated to build scalable applications and leverage international experience across Japan, the U.S., and Australia.<br>Seeking an entry-level Software Engineer role where strong communication and problem-solving skills can drive efficient solutions.<br>I am currently based in Australia and studying Computer Science in University of the People on online.<br>Auto Matcher React, TypeScript, Node.js, Express, PostgreSQL, TanStack Query * Built a full-stack matching application with real-time data synchronization.<br>Implemented RESTful API with Express and PostgreSQL for data persistence.<br>Created responsive UI components using React and Tailwind CSS.
 
